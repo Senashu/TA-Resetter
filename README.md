@@ -1,6 +1,6 @@
 # TA-Resetter
 ## Change Keybind
-Open settings.json and change desired keybind
+Open settings.json and change to desired keybind
 
 ## Start
 Open .exe or .py file
